@@ -4,9 +4,9 @@ import { Box, Text, HStack, VStack, Spacer } from 'native-base';
 
 const ProfileCard = () => {
   const profileData = {
-    name: 'Mert DURUKAN',
-    email: '1mertdurukan@gmail.com',
-    phone: '+90 538 519 07 10',
+    name: 'Barış ERKUŞ',
+    email: 'baris@gmail.com',
+    phone: '+90 535 469 ** **',
     profileImage: '../assets/avatar.jpeg',
   };
 

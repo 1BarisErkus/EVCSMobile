@@ -21,12 +21,12 @@ const Register = () => {
                         <FormControl isRequired>
                             <Stack mx="1">
                                 <FormControl.Label _text={{ color: "white" }}>Ad Soyad</FormControl.Label>
-                                <Input type="text" placeholder="Cihan Üstündağ" color='white' fontSize={16} />
+                                <Input type="text" placeholder="Barış Erkuş" color='white' fontSize={16} />
                             </Stack>
 
                             <Stack mx="1">
                                 <FormControl.Label _text={{ color: "white" }}>Email</FormControl.Label>
-                                <Input type="text" placeholder="maksopus@gmail.com" color='white' fontSize={16} />
+                                <Input type="text" placeholder="baris@gmail.com" color='white' fontSize={16} />
                             </Stack>
 
                             <Stack mx="1">
